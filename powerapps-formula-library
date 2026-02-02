@@ -1,0 +1,7 @@
+# Power Apps Formula Library
+Useful formulas and patterns I'm learning.
+
+## Examples
+- Navigate(Screen2)
+- Set(varUser, User())
+- Patch(DataSource, Defaults(DataSource), {Title: "New Item"})
